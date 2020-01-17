@@ -1,1 +1,1 @@
-#xxc的个人博客基于Hexo和Github
+#https://xuxiaochun2019.github.io/
